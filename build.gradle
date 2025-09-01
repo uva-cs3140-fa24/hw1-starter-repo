@@ -1,9 +1,9 @@
 plugins {
     id 'java'
+    id "org.jetbrains.kotlin.jvm" version "2.2.10"
 }
 
-group = 'edu.virginia.sde.hw1'
-version = '1.0-SNAPSHOT'
+group = 'edu.nd.sde.hw1'
 
 repositories {
     mavenCentral()
